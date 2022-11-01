@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋 My name is Keyush</h1>
 <h3 align="center">Fascinated by emerging Technologies</h3>
-![image](https://user-images.githubusercontent.com/52730843/199308591-1f33ecfd-78aa-4da7-93a4-696f4acd45d5.png)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
