@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, ML/DL, Sports & Theatre**
 
-- 📫 How to reach me **keyush.shah12@gmail.com**
+- 📫 How to reach me **keyush06@seas.upenn.edu**
 
 - ⚡ Fun fact **I wish to be a superhero in the metaverse**
 
