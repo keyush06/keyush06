@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyush06&label=Profile%20views&color=0e75b6&style=flat" alt="keyush06" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Conversational AI & Deep learning**
 
 - 📝 I regularly write articles on [https://medium.com/@keyush.shah](https://medium.com/@keyush.shah)
 
