@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋 My name is Keyush Shah</h1>
 <h3 align="center">Fascinated by emerging Technologies</h3>
 
-<img align="right" alt="Coding" width="400" src= "[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9525hgzg3jrsm3f2p1mdxi9vh5phj4u4xxkryvci3lj&ep=v1_gifs_search&rid=200w.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9525hgzg3jrsm3f2p1mdxi9vh5phj4u4xxkryvci3lj&ep=v1_gifs_search&rid=200w.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyush06&label=Profile%20views&color=0e75b6&style=flat" alt="keyush06" /> </p>
 
