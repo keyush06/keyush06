@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyush06&label=Profile%20views&color=0e75b6&style=flat" alt="keyush06" /> </p>
 
-- 🌱 I’m currently learning **LLMs and its applications and state of the art multimodal architectures**
+- 🌱 I’m currently learning **multimodal architectures, which integrate diverse data sources like text, images, and audio to create more robust AI systems.**
 
 - 📝 I regularly write articles on [https://medium.com/@keyush.shah](https://medium.com/@keyush.shah)
 
