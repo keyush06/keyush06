@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 My name is Keyush Shah</h1>
-<h3 align="center">Fascinated by emerging Technologies</h3>
+<h3 align="center">Fascinated by Emerging Technologies</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9525hgzg3jrsm3f2p1mdxi9vh5phj4u4xxkryvci3lj&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
