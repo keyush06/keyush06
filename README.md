@@ -30,6 +30,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Python
   </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw2_PkN4U265kptYMB9UBjsA&ust=1740962015321000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID0opaT6osDFQAAAAAdAAAAABAJ)" alt="C++" width="30" height="30"/> C/C++
+  </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/Rlogo.png" alt="r" width="30" height="30"/> R
   </a>
