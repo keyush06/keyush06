@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@keyush.shah](https://medium.com/@keyush.shah)
 
-- 💬 Ask me about **Data Science, ML/DL, Sports & Theatre**
+- 💬 Ask me about **AI and Theater**
 
-- 📫 How to reach me **keyush06@seas.upenn.edu**
+- 📫 How to reach me **keyush.shah12@gmail.com**
 
 - ⚡ Fun fact **I wish to be a superhero in the metaverse**
 
